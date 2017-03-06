@@ -6,7 +6,7 @@ Instruction to clone the files to your local machine.
 
 2. Clone the repo using the URL in the right sidebar by the following command on git-bash.
    ```
-   git clone URL
+   git clone https://github.com/Introtocs/Week5.git
    ```
    The URL is of the repository which can be accessed using the "Clone or Download" option on the top right corner. 
    
@@ -15,7 +15,7 @@ Instruction to clone the files to your local machine.
    ``` 
    1. cd Week5
    
-   2. git remote add upstream URL
+   2. git remote add upstream <URL of tbe forked repository>
    ``` 
    This will now allow you to pull in changes from the source locally and merge them, like so:
    ```
