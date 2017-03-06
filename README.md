@@ -1,5 +1,5 @@
 # Week5
-#this is a test line please ignore
+
 Instruction to clone the files to your local machine. 
 
 1. Fork the repo to your account using the fork option found on the top right corner. 
