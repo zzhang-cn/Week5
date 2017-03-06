@@ -15,7 +15,7 @@ Instruction to clone the files to your local machine.
    ``` 
    1. cd Week5
    
-   2. git remote add upstream <URL of tbe forked repository>
+   2. git remote add upstream <URL of the forked repository>
    ``` 
    This will now allow you to pull in changes from the source locally and merge them, like so:
    ```
