@@ -51,5 +51,7 @@ These steps would keep the repo on your github account synced with the changes y
 
 7. Creating a Pull Request
    Finally, you will create a pull request. First, go to your fork of the repo. 
+   
    You might see a "your recently pushed branches", and if so, you can choose "Compare and Pull Request". 
+   
    Otherwise, you can select your branch from the dropdown, and subsequently click "Pull Request" or "Compare" at the top right of the repo section.
