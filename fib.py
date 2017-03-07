@@ -3,6 +3,7 @@ import math
 import time
 
 #you can define the limit of n here
+#test 1
 LIMIT=25
 
 def fast_fib(n, memo={}):
@@ -22,9 +23,9 @@ def check_func_time(func, n):
     func(n)
     end_time = time.time()
     return end_time - start_time
-    
+
 my_range = list(range(1,LIMIT))
 a = [check_func_time(fib,number) for number in my_range]
 
-plt.plot(my_range,a, 'r-', label = 'Fib') 
+plt.plot(my_range,a, 'r-', label = 'Fib')
 plt.legend()
